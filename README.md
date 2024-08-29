@@ -1,1 +1,2 @@
-# CMSE202-f24-turnin
+Luke Aurilia
+Section 001
